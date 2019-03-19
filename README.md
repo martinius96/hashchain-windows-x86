@@ -4,6 +4,7 @@
 | ------------- | ------------- |
 | OpenSSL  | C:\BATCHES\include\openssl (includes <openssl/lib.h> |
 | lcrypto dll  | C:\MinGW\lib (linked by compiler directly)|
+
 Build (compilation.bat //MinGW x86 required)
 -----
     gcc hashchain.c -o hashchain.exe -lcrypto -I C:\BATCHES\include
