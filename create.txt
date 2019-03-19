@@ -1,1 +1,0 @@
-hashchain.exe create sha256 1000 "my secret password"
