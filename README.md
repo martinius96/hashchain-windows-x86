@@ -1,5 +1,6 @@
 # Hashchain for Windows x86 - 32-bit version
 * Original C code from: https://github.com/brenns10/hashchain
+
 | Libraries | Location (change for your purposes) |
 | ------------- | ------------- |
 | OpenSSL  | C:\BATCHES\include\openssl (includes <openssl/lib.h> |
