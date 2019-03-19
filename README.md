@@ -12,7 +12,7 @@ Build (compilation.bat //MinGW x86 required)
 Create (hash_function.bat)
 -----
     hashchain.exe create hash_function LENGHT "STRING FOR HASH"
-Verify (hash_function.bat)
+Verify (hash_function.bat) - on success prints success, otherwise failure
 -----
     hashchain.exe verify hash_function hash1_base64 hash2_base64
 * hash1_base64(n) --> hash2_base64(n+1) - for instance (n, n+1 are base64_decoded)
