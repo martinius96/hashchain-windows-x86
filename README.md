@@ -15,4 +15,4 @@ Create (hash_function.bat)
 Verify (hash_function.bat)
 -----
     hashchain.exe verify hash_function hash1_base64 hash2_base64
-* hash1_base64(n) --> hash2_base64(hash1_base64) - for instance     
+* hash1_base64(n) --> hash2_base64(n+1) - for instance (n, n+1 are base64_encoded)     
