@@ -3,7 +3,7 @@
 
 | Libraries | Location (change for your purposes) |
 | ------------- | ------------- |
-| OpenSSL  | C:\BATCHES\include\openssl (includes <openssl/lib.h> |
+| OpenSSL v1+ | C:\BATCHES\include\openssl (includes <openssl/lib.h> |
 | lcrypto dll  | C:\MinGW\lib (linked by compiler directly)|
 
 Build (compilation.bat //MinGW x86 required)
